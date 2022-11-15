@@ -7,6 +7,20 @@
 ![](https://img.shields.io/badge/Supported-iOS16.1%20%7C%20OSX%2016.1-4BC51D.svg?style=flat-square)
 ![](https://img.shields.io/badge/Swift-5.7.1-orange.svg?style=flat)
 
+
+
+<br/>
+
+# CropPicker_Image
+
+|-|-|
+|---|---|
+|<img src='./Image sample/1.gif' width='400px'>|<img src='./Image sample/2.gif' width='400px'>|
+
+|-|-|
+|---|---|
+|<img src='./Image sample/3.gif' width='400px'>|<img src='./Image sample/4.gif' width='400px'>|
+
 ## Introduce
 
 The Corner and Side buttons allow you to modify the position of the crop and UIScrollView to zoom the image. If the image is larger than the area of the UIScrollView, the image can be scrolled up and down, left and right, and if the image is smaller than the area of the UIScrollView, the image is always centered.
