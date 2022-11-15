@@ -17,16 +17,7 @@ If you want to see the CropPickerViewController that is created with CropView, s
 
 <br/>
 
-### CropPicker_Image
 
-|-|-|
-|---|---|
-|<img src='./img/Simulator Screen Shot - iPhone 14 Pro - 2022-11-16 at 01.16.35.png' width='200px'>|<img src='./img/result2.png' width='200px'>|
-|<img src='![Simulator Screen Shot - iPhone 14 Pro - 2022-11-16 at 01 16 35](https://user-images.githubusercontent.com/81400169/202007688-dbcfc706-9c29-49f3-8fcb-654352ea50b1.png)' width='200px'>|<img src='./img/aspect.png' width='200px'>|
-
-|-|-|
-|---|---|
-|<img src='./img/2.gif' width='200px'>|<img src='./img/1.gif' width='200px'>|
 
 ## Requirements
 
