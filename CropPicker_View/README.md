@@ -4,8 +4,8 @@
 [![Version](https://img.shields.io/cocoapods/v/CropPickerView.svg?style=flat)](https://cocoapods.org/pods/CropPickerView)
 [![License](https://img.shields.io/cocoapods/l/CropPickerView.svg?style=flat)](https://cocoapods.org/pods/CropPickerView)
 [![Platform](https://img.shields.io/cocoapods/p/CropPickerView.svg?style=flat)](https://cocoapods.org/pods/CropPickerView)
-![](https://img.shields.io/badge/Supported-iOS9%20%7C%20OSX%2010.9-4BC51D.svg?style=flat-square)
-![](https://img.shields.io/badge/Swift-5.0-orange.svg?style=flat)
+![](https://img.shields.io/badge/Supported-iOS16.1%20%7C%20OSX%2016.1-4BC51D.svg?style=flat-square)
+![](https://img.shields.io/badge/Swift-5.1-orange.svg?style=flat)
 
 ## Introduce
 
