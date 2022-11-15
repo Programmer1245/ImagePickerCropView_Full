@@ -1,4 +1,4 @@
-# CropPickerView
+# CropPicker_Image
 
 [![CI Status](https://img.shields.io/travis/pikachu987/CropPickerView.svg?style=flat)](https://travis-ci.org/pikachu987/CropPickerView)
 [![Version](https://img.shields.io/cocoapods/v/CropPickerView.svg?style=flat)](https://cocoapods.org/pods/CropPickerView)
@@ -11,17 +11,17 @@
 
 The Corner and Side buttons allow you to modify the position of the crop and UIScrollView to zoom the image. If the image is larger than the area of the UIScrollView, the image can be scrolled up and down, left and right, and if the image is smaller than the area of the UIScrollView, the image is always centered.
 
-### [CropPickerController](https://github.com/Murad9288/CropPickerController)
+### [CropPickerController](https://github.com/Murad9288/Cropicker_Image)
 
-If you want to see the CropPickerViewController that is created with CropView, see [CropPickerController](https://github.com/Murad9288/CropPickerController)
+If you want to see the CropPickerViewController that is created with CropView, see [CropPickerController](https://github.com/Murad9288/Cropicker_Image)
 
 <br/>
 
-### CropPickerView
+### CropPicker_Image
 
 |-|-|
 |---|---|
-|<img src='./img/result1.png' width='200px'>|<img src='./img/result2.png' width='200px'>|
+|<img src='./img/Simulator Screen Shot - iPhone 14 Pro - 2022-11-16 at 01.16.35' width='200px'>|<img src='./img/result2.png' width='200px'>|
 |<img src='./img/radius.png' width='200px'>|<img src='./img/aspect.png' width='200px'>|
 
 |-|-|
