@@ -197,11 +197,3 @@ extension ViewController: CropPickerViewDelegate {
 
 ```
 
-
-## Author
-
-pikachu987, muradhossainm01@gmail.com
-
-## License
-
-CropPickerView is available under the MIT license. See the LICENSE file for more info.
