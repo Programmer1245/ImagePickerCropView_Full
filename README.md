@@ -53,9 +53,9 @@ pod 'CropPickerView'
 
 setting
 
-![image](./img/1.png)
+![image](Image sample/st.png)
 
-![image](./img/2.png)
+![image](Image sample/st1.png)
 
 done!
 
