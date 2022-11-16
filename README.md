@@ -2,7 +2,6 @@
 
 [![CI Status](https://img.shields.io/travis/pikachu987/CropPickerView.svg?style=flat)](https://travis-ci.org/pikachu987/CropPickerView)
 [![Version](https://img.shields.io/cocoapods/v/CropPickerView.svg?style=flat)](https://cocoapods.org/pods/CropPickerView)
-[![License](https://img.shields.io/cocoapods/l/CropPickerView.svg?style=flat)](https://cocoapods.org/pods/CropPickerView)
 [![Platform](https://img.shields.io/cocoapods/p/CropPickerView.svg?style=flat)](https://cocoapods.org/pods/CropPickerView)
 ![](https://img.shields.io/badge/Supported-iOS16.1%20%7C%20OSX%2016.1-4BC51D.svg?style=flat-square)
 ![](https://img.shields.io/badge/Swift-5.7.1-orange.svg?style=flat)
