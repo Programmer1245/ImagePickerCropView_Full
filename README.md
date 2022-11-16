@@ -53,7 +53,7 @@ pod 'CropPickerView'
 
 setting
 
-<img src='./Image sample/st.png)' width='200px'>
+ <img src="./Image sample/st.png" />
 
 ![image](./Image sample/st1.png)
 
