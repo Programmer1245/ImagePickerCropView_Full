@@ -14,11 +14,11 @@
 
 |-|-|
 |---|---|
-|<img src='./Image sample/1.gif' width='400px'>|<img src='./Image sample/2.gif' width='400px'>|
+|<img src='./Image sample/1.gif' width='240px'>|<img src='./Image sample/2.gif' width='240px'>|
 
 |-|-|
 |---|---|
-|<img src='./Image sample/3.gif' width='400px'>|<img src='./Image sample/4.gif' width='400px'>|
+|<img src='./Image sample/3.gif' width='240px'>|<img src='./Image sample/4.gif' width='240px'>|
 
 ## Introduce
 
